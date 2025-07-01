@@ -14,6 +14,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📈 Análise e Resultados
 
+![Gráfico de barras mostrando a contagem de palavras por tópico](grafico_tamanho_topicos.png)
+
 A análise consistiu em extrair todos os tópicos e seus respectivos conteúdos da página. Após a extração e limpeza, foi realizada uma contagem de palavras para cada tópico.
 
 O principal insight encontrado foi que o **Tópico 2 ("COMO COLETAMOS E UTILIZAMOS SEUS DADOS:")** é o mais extenso, sugerindo ser a seção com maior densidade de informações e detalhes jurídicos.
